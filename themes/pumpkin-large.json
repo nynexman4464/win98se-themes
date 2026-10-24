@@ -1,0 +1,570 @@
+{
+  "schemaVersion": 1,
+  "sources": {
+    "registryExport": {
+      "fileName": "schemes.reg",
+      "registryKey": "HKEY_CURRENT_USER\\Control Panel\\Appearance\\Schemes",
+      "sha256": "b8bbbab45068a360aacb9745e4bf21e9d2d4d0a12d361f485f04d59fab21df50"
+    },
+    "systemExecutable": {
+      "fileName": "USER.EXE",
+      "byteLength": 549664,
+      "sha256": "04b406dc0e444ccf2443aed0c007361acbb4cba39ac7671e1a3f4e99933b15ad"
+    }
+  },
+  "name": "Pumpkin (large)",
+  "provenance": {
+    "kind": "registryExport",
+    "registryValueName": "Pumpkin (large)"
+  },
+  "byteLength": 520,
+  "sha256": "5809458007189fd7fe08bf54dec7cba1c356b7d177111120700cfb0ee806ecc2",
+  "rawHex": "040000001f308cd30100000015000000150000001a0000001a000000edffffff000000000000000000000000bc02000000000000000000004d532053616e7320536572696600383f0000487e0000307e63000000000001001600000016000000f0ffffff000000000000000000000000bc02000000000000000000004d532053616e7320536572696600383f0000487e0000307e63000000000001001600000016000000f0ffffff0000000000000000000000009001000000000000000000004d532053616e7320536572696600383f0000487e0000307e6300000000000100f3ffffff0000000000000000000000009001000000000000000000004d532053616e7320536572696600383f0000487e0000307e6300000000000100f0ffffff0000000000000000000000009001000000000000000000004d532053616e7320536572696600383f0000487e0000307e6300000000000100f0ffffff0000000000000000000000009001000000000000000000004d532053616e7320536572696600000000000000000000000000000000000000f8eacf0042004200d7a52f00a0a0a400f0d4a000ffffff02000000020000000200000002ffffff02f0d4a000f0d4a000de9f2c00b8885000ffffff02f0d4a000de9f2c00de9f2c0000000002f5eacf02f8eacf0000000002f0d4a00080008002ffffff02edcc8d000000ff00de9f2c00a0a0a400",
+  "header": {
+    "offset": 0,
+    "rawHex": "040000001f308cd3",
+    "dwords": [
+      4,
+      3549179935
+    ]
+  },
+  "metrics": {
+    "borderWidth": {
+      "offset": 8,
+      "value": 1
+    },
+    "scrollWidth": {
+      "offset": 12,
+      "value": 21
+    },
+    "scrollHeight": {
+      "offset": 16,
+      "value": 21
+    },
+    "captionWidth": {
+      "offset": 20,
+      "value": 26
+    },
+    "captionHeight": {
+      "offset": 24,
+      "value": 26
+    },
+    "smallCaptionWidth": {
+      "offset": 88,
+      "value": 22
+    },
+    "smallCaptionHeight": {
+      "offset": 92,
+      "value": 22
+    },
+    "menuWidth": {
+      "offset": 156,
+      "value": 22
+    },
+    "menuHeight": {
+      "offset": 160,
+      "value": 22
+    }
+  },
+  "fonts": {
+    "caption": {
+      "offset": 28,
+      "rawHex": "edffffff000000000000000000000000bc02000000000000000000004d532053616e7320536572696600383f0000487e0000307e6300000000000100",
+      "height": -19,
+      "width": 0,
+      "escapement": 0,
+      "orientation": 0,
+      "weight": 700,
+      "italic": 0,
+      "underline": 0,
+      "strikeOut": 0,
+      "charSet": 0,
+      "outPrecision": 0,
+      "clipPrecision": 0,
+      "quality": 0,
+      "pitchAndFamily": 0,
+      "faceName": "MS Sans Serif",
+      "faceNameBytesHex": "4d532053616e7320536572696600383f0000487e0000307e6300000000000100",
+      "bytesAfterFaceNameTerminatorHex": "383f0000487e0000307e6300000000000100"
+    },
+    "smallCaption": {
+      "offset": 96,
+      "rawHex": "f0ffffff000000000000000000000000bc02000000000000000000004d532053616e7320536572696600383f0000487e0000307e6300000000000100",
+      "height": -16,
+      "width": 0,
+      "escapement": 0,
+      "orientation": 0,
+      "weight": 700,
+      "italic": 0,
+      "underline": 0,
+      "strikeOut": 0,
+      "charSet": 0,
+      "outPrecision": 0,
+      "clipPrecision": 0,
+      "quality": 0,
+      "pitchAndFamily": 0,
+      "faceName": "MS Sans Serif",
+      "faceNameBytesHex": "4d532053616e7320536572696600383f0000487e0000307e6300000000000100",
+      "bytesAfterFaceNameTerminatorHex": "383f0000487e0000307e6300000000000100"
+    },
+    "menu": {
+      "offset": 164,
+      "rawHex": "f0ffffff0000000000000000000000009001000000000000000000004d532053616e7320536572696600383f0000487e0000307e6300000000000100",
+      "height": -16,
+      "width": 0,
+      "escapement": 0,
+      "orientation": 0,
+      "weight": 400,
+      "italic": 0,
+      "underline": 0,
+      "strikeOut": 0,
+      "charSet": 0,
+      "outPrecision": 0,
+      "clipPrecision": 0,
+      "quality": 0,
+      "pitchAndFamily": 0,
+      "faceName": "MS Sans Serif",
+      "faceNameBytesHex": "4d532053616e7320536572696600383f0000487e0000307e6300000000000100",
+      "bytesAfterFaceNameTerminatorHex": "383f0000487e0000307e6300000000000100"
+    },
+    "status": {
+      "offset": 224,
+      "rawHex": "f3ffffff0000000000000000000000009001000000000000000000004d532053616e7320536572696600383f0000487e0000307e6300000000000100",
+      "height": -13,
+      "width": 0,
+      "escapement": 0,
+      "orientation": 0,
+      "weight": 400,
+      "italic": 0,
+      "underline": 0,
+      "strikeOut": 0,
+      "charSet": 0,
+      "outPrecision": 0,
+      "clipPrecision": 0,
+      "quality": 0,
+      "pitchAndFamily": 0,
+      "faceName": "MS Sans Serif",
+      "faceNameBytesHex": "4d532053616e7320536572696600383f0000487e0000307e6300000000000100",
+      "bytesAfterFaceNameTerminatorHex": "383f0000487e0000307e6300000000000100"
+    },
+    "message": {
+      "offset": 284,
+      "rawHex": "f0ffffff0000000000000000000000009001000000000000000000004d532053616e7320536572696600383f0000487e0000307e6300000000000100",
+      "height": -16,
+      "width": 0,
+      "escapement": 0,
+      "orientation": 0,
+      "weight": 400,
+      "italic": 0,
+      "underline": 0,
+      "strikeOut": 0,
+      "charSet": 0,
+      "outPrecision": 0,
+      "clipPrecision": 0,
+      "quality": 0,
+      "pitchAndFamily": 0,
+      "faceName": "MS Sans Serif",
+      "faceNameBytesHex": "4d532053616e7320536572696600383f0000487e0000307e6300000000000100",
+      "bytesAfterFaceNameTerminatorHex": "383f0000487e0000307e6300000000000100"
+    },
+    "icon": {
+      "offset": 344,
+      "rawHex": "f0ffffff0000000000000000000000009001000000000000000000004d532053616e7320536572696600000000000000000000000000000000000000",
+      "height": -16,
+      "width": 0,
+      "escapement": 0,
+      "orientation": 0,
+      "weight": 400,
+      "italic": 0,
+      "underline": 0,
+      "strikeOut": 0,
+      "charSet": 0,
+      "outPrecision": 0,
+      "clipPrecision": 0,
+      "quality": 0,
+      "pitchAndFamily": 0,
+      "faceName": "MS Sans Serif",
+      "faceNameBytesHex": "4d532053616e7320536572696600000000000000000000000000000000000000",
+      "bytesAfterFaceNameTerminatorHex": "000000000000000000000000000000000000"
+    }
+  },
+  "colors": {
+    "Scrollbar": {
+      "index": 0,
+      "offset": 404,
+      "rawHex": "f8eacf00",
+      "dword": 13626104,
+      "rgb": [
+        248,
+        234,
+        207
+      ],
+      "hex": "#F8EACF",
+      "highByte": 0
+    },
+    "Background": {
+      "index": 1,
+      "offset": 408,
+      "rawHex": "42004200",
+      "dword": 4325442,
+      "rgb": [
+        66,
+        0,
+        66
+      ],
+      "hex": "#420042",
+      "highByte": 0
+    },
+    "ActiveTitle": {
+      "index": 2,
+      "offset": 412,
+      "rawHex": "d7a52f00",
+      "dword": 3122647,
+      "rgb": [
+        215,
+        165,
+        47
+      ],
+      "hex": "#D7A52F",
+      "highByte": 0
+    },
+    "InactiveTitle": {
+      "index": 3,
+      "offset": 416,
+      "rawHex": "a0a0a400",
+      "dword": 10789024,
+      "rgb": [
+        160,
+        160,
+        164
+      ],
+      "hex": "#A0A0A4",
+      "highByte": 0
+    },
+    "Menu": {
+      "index": 4,
+      "offset": 420,
+      "rawHex": "f0d4a000",
+      "dword": 10540272,
+      "rgb": [
+        240,
+        212,
+        160
+      ],
+      "hex": "#F0D4A0",
+      "highByte": 0
+    },
+    "Window": {
+      "index": 5,
+      "offset": 424,
+      "rawHex": "ffffff02",
+      "dword": 50331647,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "hex": "#FFFFFF",
+      "highByte": 2
+    },
+    "WindowFrame": {
+      "index": 6,
+      "offset": 428,
+      "rawHex": "00000002",
+      "dword": 33554432,
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "highByte": 2
+    },
+    "MenuText": {
+      "index": 7,
+      "offset": 432,
+      "rawHex": "00000002",
+      "dword": 33554432,
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "highByte": 2
+    },
+    "WindowText": {
+      "index": 8,
+      "offset": 436,
+      "rawHex": "00000002",
+      "dword": 33554432,
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "highByte": 2
+    },
+    "TitleText": {
+      "index": 9,
+      "offset": 440,
+      "rawHex": "ffffff02",
+      "dword": 50331647,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "hex": "#FFFFFF",
+      "highByte": 2
+    },
+    "ActiveBorder": {
+      "index": 10,
+      "offset": 444,
+      "rawHex": "f0d4a000",
+      "dword": 10540272,
+      "rgb": [
+        240,
+        212,
+        160
+      ],
+      "hex": "#F0D4A0",
+      "highByte": 0
+    },
+    "InactiveBorder": {
+      "index": 11,
+      "offset": 448,
+      "rawHex": "f0d4a000",
+      "dword": 10540272,
+      "rgb": [
+        240,
+        212,
+        160
+      ],
+      "hex": "#F0D4A0",
+      "highByte": 0
+    },
+    "AppWorkspace": {
+      "index": 12,
+      "offset": 452,
+      "rawHex": "de9f2c00",
+      "dword": 2924510,
+      "rgb": [
+        222,
+        159,
+        44
+      ],
+      "hex": "#DE9F2C",
+      "highByte": 0
+    },
+    "Hilight": {
+      "index": 13,
+      "offset": 456,
+      "rawHex": "b8885000",
+      "dword": 5277880,
+      "rgb": [
+        184,
+        136,
+        80
+      ],
+      "hex": "#B88850",
+      "highByte": 0
+    },
+    "HilightText": {
+      "index": 14,
+      "offset": 460,
+      "rawHex": "ffffff02",
+      "dword": 50331647,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "hex": "#FFFFFF",
+      "highByte": 2
+    },
+    "ButtonFace": {
+      "index": 15,
+      "offset": 464,
+      "rawHex": "f0d4a000",
+      "dword": 10540272,
+      "rgb": [
+        240,
+        212,
+        160
+      ],
+      "hex": "#F0D4A0",
+      "highByte": 0
+    },
+    "ButtonShadow": {
+      "index": 16,
+      "offset": 468,
+      "rawHex": "de9f2c00",
+      "dword": 2924510,
+      "rgb": [
+        222,
+        159,
+        44
+      ],
+      "hex": "#DE9F2C",
+      "highByte": 0
+    },
+    "GrayText": {
+      "index": 17,
+      "offset": 472,
+      "rawHex": "de9f2c00",
+      "dword": 2924510,
+      "rgb": [
+        222,
+        159,
+        44
+      ],
+      "hex": "#DE9F2C",
+      "highByte": 0
+    },
+    "ButtonText": {
+      "index": 18,
+      "offset": 476,
+      "rawHex": "00000002",
+      "dword": 33554432,
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "highByte": 2
+    },
+    "InactiveTitleText": {
+      "index": 19,
+      "offset": 480,
+      "rawHex": "f5eacf02",
+      "dword": 47180533,
+      "rgb": [
+        245,
+        234,
+        207
+      ],
+      "hex": "#F5EACF",
+      "highByte": 2
+    },
+    "ButtonHilight": {
+      "index": 20,
+      "offset": 484,
+      "rawHex": "f8eacf00",
+      "dword": 13626104,
+      "rgb": [
+        248,
+        234,
+        207
+      ],
+      "hex": "#F8EACF",
+      "highByte": 0
+    },
+    "ButtonDkShadow": {
+      "index": 21,
+      "offset": 488,
+      "rawHex": "00000002",
+      "dword": 33554432,
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "highByte": 2
+    },
+    "ButtonLight": {
+      "index": 22,
+      "offset": 492,
+      "rawHex": "f0d4a000",
+      "dword": 10540272,
+      "rgb": [
+        240,
+        212,
+        160
+      ],
+      "hex": "#F0D4A0",
+      "highByte": 0
+    },
+    "InfoText": {
+      "index": 23,
+      "offset": 496,
+      "rawHex": "80008002",
+      "dword": 41943168,
+      "rgb": [
+        128,
+        0,
+        128
+      ],
+      "hex": "#800080",
+      "highByte": 2
+    },
+    "InfoWindow": {
+      "index": 24,
+      "offset": 500,
+      "rawHex": "ffffff02",
+      "dword": 50331647,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "hex": "#FFFFFF",
+      "highByte": 2
+    },
+    "ButtonAlternateFace": {
+      "index": 25,
+      "offset": 504,
+      "rawHex": "edcc8d00",
+      "dword": 9293037,
+      "rgb": [
+        237,
+        204,
+        141
+      ],
+      "hex": "#EDCC8D",
+      "highByte": 0
+    },
+    "HotTrackingColor": {
+      "index": 26,
+      "offset": 508,
+      "rawHex": "0000ff00",
+      "dword": 16711680,
+      "rgb": [
+        0,
+        0,
+        255
+      ],
+      "hex": "#0000FF",
+      "highByte": 0
+    },
+    "GradientActiveTitle": {
+      "index": 27,
+      "offset": 512,
+      "rawHex": "de9f2c00",
+      "dword": 2924510,
+      "rgb": [
+        222,
+        159,
+        44
+      ],
+      "hex": "#DE9F2C",
+      "highByte": 0
+    },
+    "GradientInactiveTitle": {
+      "index": 28,
+      "offset": 516,
+      "rawHex": "a0a0a400",
+      "dword": 10789024,
+      "rgb": [
+        160,
+        160,
+        164
+      ],
+      "hex": "#A0A0A4",
+      "highByte": 0
+    }
+  }
+}
