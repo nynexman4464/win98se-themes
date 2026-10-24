@@ -30,7 +30,7 @@ The Windows 98 SE identification follows the supplied installation context; no p
 
 ## Schemes
 
-Each **Showcase** is one composite image combining the native controls, menu, tooltip, message-box, and desktop-color views. The four window views remain at their original pixel scale; the desktop panel crops the icon area and extends its background color. The repository contains 34 showcase images rather than 170 separate captures. All input images decoded successfully, and every background check matched the stored color within display quantization. The desktop sample uses a stock icon, the scheme’s icon-title font, and helper-selected label contrast; it is not an Explorer desktop or wallpaper capture.
+Each **Showcase** is a single desktop-style preview scene combining captured active and inactive windows, a tool window, controls, an open menu, tooltip, message box, and icon-label sample over the scheme’s desktop color. Elements are cropped and rearranged from native Windows 98 screenshots without resizing or redrawing their pixels. These are composite illustrations of UI states, rather than simultaneous interactive controls. All 170 source images passed decoding and background-color checks. The stock icon and helper-selected label contrast do not reproduce an Explorer desktop or wallpaper.
 
 Each **All settings** sheet lists the 29 colors, six font records, nine dimensions, and source information. These sheets describe the stored data; their text is rendered on the host and does not emulate the Windows 98 fonts.
 

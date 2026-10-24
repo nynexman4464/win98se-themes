@@ -2399,18 +2399,700 @@
   },
   "presentation": {
     "compositeImages": 34,
+    "layout": "Single desktop-style scene",
     "nativeImageScale": "1:1",
-    "desktopCrop": [
-      0,
-      0,
-      800,
-      200
-    ],
-    "desktopPanelExtension": "Remaining width filled with sampled desktop background color.",
     "compositeSize": [
-      1672,
-      1640
+      1340,
+      760
     ],
-    "originals": "Original captures are retained outside the repository; per-view input hashes remain in this log."
+    "sourceCrops": {
+      "brick": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          369
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "desert": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          369
+        ],
+        "tooltip": [
+          189,
+          374,
+          496,
+          393
+        ]
+      },
+      "eggplant": {
+        "menu": [
+          59,
+          184,
+          226,
+          272
+        ],
+        "message": [
+          162,
+          243,
+          643,
+          374
+        ],
+        "tooltip": [
+          189,
+          374,
+          482,
+          395
+        ]
+      },
+      "high-contrast-1": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          371
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "high-contrast-1-extra-large": {
+        "menu": [
+          59,
+          184,
+          445,
+          352
+        ],
+        "message": [
+          157,
+          143,
+          651,
+          500
+        ],
+        "tooltip": [
+          189,
+          374,
+          711,
+          406
+        ]
+      },
+      "high-contrast-1-large": {
+        "menu": [
+          59,
+          184,
+          371,
+          279
+        ],
+        "message": [
+          153,
+          191,
+          651,
+          444
+        ],
+        "tooltip": [
+          189,
+          374,
+          648,
+          403
+        ]
+      },
+      "high-contrast-2": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          371
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "high-contrast-2-extra-large": {
+        "menu": [
+          59,
+          184,
+          445,
+          352
+        ],
+        "message": [
+          157,
+          143,
+          651,
+          500
+        ],
+        "tooltip": [
+          189,
+          374,
+          711,
+          406
+        ]
+      },
+      "high-contrast-2-large": {
+        "menu": [
+          59,
+          184,
+          371,
+          279
+        ],
+        "message": [
+          153,
+          191,
+          651,
+          444
+        ],
+        "tooltip": [
+          189,
+          374,
+          648,
+          403
+        ]
+      },
+      "high-contrast-black": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          371
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "high-contrast-black-extra-large": {
+        "menu": [
+          59,
+          184,
+          445,
+          352
+        ],
+        "message": [
+          157,
+          143,
+          651,
+          500
+        ],
+        "tooltip": [
+          189,
+          374,
+          711,
+          406
+        ]
+      },
+      "high-contrast-black-large": {
+        "menu": [
+          59,
+          184,
+          371,
+          279
+        ],
+        "message": [
+          153,
+          191,
+          651,
+          444
+        ],
+        "tooltip": [
+          189,
+          374,
+          648,
+          403
+        ]
+      },
+      "high-contrast-white": {
+        "menu": [
+          59,
+          184,
+          231,
+          260
+        ],
+        "message": [
+          167,
+          248,
+          639,
+          371
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "high-contrast-white-extra-large": {
+        "menu": [
+          103,
+          187,
+          465,
+          352
+        ],
+        "message": [
+          168,
+          206,
+          641,
+          442
+        ],
+        "tooltip": [
+          189,
+          374,
+          711,
+          406
+        ]
+      },
+      "high-contrast-white-large": {
+        "menu": [
+          59,
+          184,
+          350,
+          308
+        ],
+        "message": [
+          168,
+          203,
+          641,
+          438
+        ],
+        "tooltip": [
+          212,
+          374,
+          631,
+          402
+        ]
+      },
+      "lilac": {
+        "menu": [
+          59,
+          184,
+          237,
+          272
+        ],
+        "message": [
+          158,
+          243,
+          646,
+          382
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          394
+        ]
+      },
+      "lilac-large": {
+        "menu": [
+          59,
+          184,
+          269,
+          284
+        ],
+        "message": [
+          152,
+          234,
+          655,
+          403
+        ],
+        "tooltip": [
+          189,
+          374,
+          548,
+          398
+        ]
+      },
+      "maple": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          369
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "marine-high-color": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          369
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "plum-high-color": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          369
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "pumpkin-large": {
+        "menu": [
+          59,
+          184,
+          269,
+          288
+        ],
+        "message": [
+          154,
+          232,
+          653,
+          402
+        ],
+        "tooltip": [
+          189,
+          374,
+          501,
+          396
+        ]
+      },
+      "rainy-day": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          369
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "red-white-and-blue-vga": {
+        "menu": [
+          59,
+          184,
+          226,
+          272
+        ],
+        "message": [
+          162,
+          243,
+          643,
+          374
+        ],
+        "tooltip": [
+          189,
+          374,
+          482,
+          395
+        ]
+      },
+      "rose": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          249,
+          620,
+          375
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "rose-large": {
+        "menu": [
+          59,
+          184,
+          269,
+          288
+        ],
+        "message": [
+          154,
+          232,
+          653,
+          404
+        ],
+        "tooltip": [
+          189,
+          374,
+          561,
+          400
+        ]
+      },
+      "slate": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          369
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "spruce": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          369
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "storm-vga": {
+        "menu": [
+          59,
+          184,
+          209,
+          264
+        ],
+        "message": [
+          179,
+          246,
+          627,
+          373
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          394
+        ]
+      },
+      "teal-vga": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          369
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "wheat": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          369
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "windows-standard": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          369
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "windows-standard-default": {
+        "menu": [
+          59,
+          184,
+          209,
+          260
+        ],
+        "message": [
+          187,
+          248,
+          620,
+          369
+        ],
+        "tooltip": [
+          189,
+          374,
+          445,
+          393
+        ]
+      },
+      "windows-standard-extra-large": {
+        "menu": [
+          59,
+          184,
+          269,
+          284
+        ],
+        "message": [
+          159,
+          235,
+          649,
+          392
+        ],
+        "tooltip": [
+          189,
+          374,
+          490,
+          396
+        ]
+      },
+      "windows-standard-large": {
+        "menu": [
+          59,
+          184,
+          240,
+          272
+        ],
+        "message": [
+          153,
+          243,
+          655,
+          382
+        ],
+        "tooltip": [
+          189,
+          374,
+          501,
+          396
+        ]
+      }
+    },
+    "notes": [
+      "Native screenshot elements cropped and rearranged; controls are not redrawn.",
+      "The inactive window is partially occluded by the active sample window.",
+      "Multiple active-looking UI states are shown together for comparison.",
+      "Desktop icon-label text contrast is chosen by the helper.",
+      "Original screenshots retained outside the repository."
+    ]
   }
 }
