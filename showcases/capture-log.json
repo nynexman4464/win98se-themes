@@ -1,0 +1,2416 @@
+{
+  "method": "Native Windows 98 controls and GDI screenshots",
+  "guestResolution": [
+    800,
+    600
+  ],
+  "expectedCaptures": 170,
+  "restoration": "Helper snapshots live settings before changes and attempts restoration on completion or detected error. Guest backup: C:\\THEMECAP\\SHOW6T.BIN (test) or SHOW6F.BIN (full).",
+  "captures": {
+    "brick/controls": {
+      "bmpSha256": "fbc17b89574d6a4cd29512c768bc1cb87d8adaab0ae4958700cb43a84a4512fd",
+      "expectedBackgroundRgb": [
+        66,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "brick/menu": {
+      "bmpSha256": "4d0910bfeb06a58a5f3e6852833ba49b5b825123b836cd86ab30d6f4dbafd90a",
+      "expectedBackgroundRgb": [
+        66,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "brick/tooltip": {
+      "bmpSha256": "f8be6ee02ded7764e51ba196a7a7431d2a35ac17b35ac1d039febceff67cf662",
+      "expectedBackgroundRgb": [
+        66,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "brick/message": {
+      "bmpSha256": "5bbeb56ab4861380d871386aba1c4019b479e9876bad4eec642dcdc77f986a03",
+      "expectedBackgroundRgb": [
+        66,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "brick/desktop": {
+      "bmpSha256": "a34067786a9cb5f1fa478f7337368e680a0436087dbad66e8f8d817c2d4072ac",
+      "expectedBackgroundRgb": [
+        66,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "maple/controls": {
+      "bmpSha256": "209f95ce090f87b5cc8f14a2ac33c0c7774a8d5ca21a4aedefe24b33fae37737",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "maple/menu": {
+      "bmpSha256": "b75a476767da4529b3b213e668e3d8c33b3f7fdf47cd2009ff062600a8a9737c",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "maple/tooltip": {
+      "bmpSha256": "020632d8f20f6e8303990e3bd1b35d06c54a25a71ae56bacc4cd2ade66fc2510",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "maple/message": {
+      "bmpSha256": "b5287eb1e57e51e3c70cab54cf2f730752cf973b0ef48a85b829373e91b678e4",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "maple/desktop": {
+      "bmpSha256": "172af67bcce8336e772af1aaff34cb370a49801ad9485e557919759d7dfadfb1",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "spruce/controls": {
+      "bmpSha256": "946ff786db62e7aaaecb2a52f28599b6b61e854060624b0365abc958e6059969",
+      "expectedBackgroundRgb": [
+        33,
+        63,
+        33
+      ],
+      "observedBackgroundRgb": [
+        31,
+        63,
+        31
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "spruce/menu": {
+      "bmpSha256": "9da5bf2b445a42fa2f097ac6923297dbe04688ea1ecc8de3174f441a9ee7e0bf",
+      "expectedBackgroundRgb": [
+        33,
+        63,
+        33
+      ],
+      "observedBackgroundRgb": [
+        31,
+        63,
+        31
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "spruce/tooltip": {
+      "bmpSha256": "cef9684418d163b572560da5c28a18471ee4a6b53e4593b917259c3b7ec3f09d",
+      "expectedBackgroundRgb": [
+        33,
+        63,
+        33
+      ],
+      "observedBackgroundRgb": [
+        31,
+        63,
+        31
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "spruce/message": {
+      "bmpSha256": "228461c89e401373af2e2794a7444dcb6aa8cf02c7f722038c32817b6b0a1f25",
+      "expectedBackgroundRgb": [
+        33,
+        63,
+        33
+      ],
+      "observedBackgroundRgb": [
+        31,
+        63,
+        31
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "spruce/desktop": {
+      "bmpSha256": "ab18c4a83d4504dcaceadfbfd3f7bfa44096740f84640c67e450c18c7981a5d1",
+      "expectedBackgroundRgb": [
+        33,
+        63,
+        33
+      ],
+      "observedBackgroundRgb": [
+        31,
+        63,
+        31
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "teal-vga/controls": {
+      "bmpSha256": "919979495bc4b0be982f50a461efc93f8ad500ddd91b5c8cc3398d0938ecdee2",
+      "expectedBackgroundRgb": [
+        0,
+        64,
+        64
+      ],
+      "observedBackgroundRgb": [
+        0,
+        63,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "teal-vga/menu": {
+      "bmpSha256": "873080f2488471fbb327b64526974abf0899aa8f6f595b2d084b24177253d67f",
+      "expectedBackgroundRgb": [
+        0,
+        64,
+        64
+      ],
+      "observedBackgroundRgb": [
+        0,
+        63,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "teal-vga/tooltip": {
+      "bmpSha256": "04a23f1f2e83ade314930cfa7c0c4f2712a5157ea94e95b5d940a1d7a4747727",
+      "expectedBackgroundRgb": [
+        0,
+        64,
+        64
+      ],
+      "observedBackgroundRgb": [
+        0,
+        63,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "teal-vga/message": {
+      "bmpSha256": "e2a2cf86355ec78a9b85d813833d4c3e83ba4a1c2eb0a7073ebf253bd40bcb2b",
+      "expectedBackgroundRgb": [
+        0,
+        64,
+        64
+      ],
+      "observedBackgroundRgb": [
+        0,
+        63,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "teal-vga/desktop": {
+      "bmpSha256": "2315ff263323001e946dffd21580b58a85e320c71983d9e663a4e84cf76d11c7",
+      "expectedBackgroundRgb": [
+        0,
+        64,
+        64
+      ],
+      "observedBackgroundRgb": [
+        0,
+        63,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "red-white-and-blue-vga/controls": {
+      "bmpSha256": "c0659dd40b5aa814710b9c46ca820f27fe35d6ed57731874ea7bb26f8b165676",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        66
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "red-white-and-blue-vga/menu": {
+      "bmpSha256": "2b72ca7d4ba9eaf330b63bcaf29a0027ac4d5a1d1c6f90bca39cf74dbd32fb71",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        66
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "red-white-and-blue-vga/tooltip": {
+      "bmpSha256": "4920a7340f2a5784ff5a4e0dea00cf5a6e2053834e1f0a1aa2e38f16c0aadd44",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        66
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "red-white-and-blue-vga/message": {
+      "bmpSha256": "14d4e4f30c4f4d9f34127918349e675f902564786a190d26b82023fe8af7d6d2",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        66
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "red-white-and-blue-vga/desktop": {
+      "bmpSha256": "b57bea2212744c73a9c272a7792cebe3dd2246af71a56148ae9550daf0bbb3df",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        66
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "wheat/controls": {
+      "bmpSha256": "9d88a681eddeac161688f0547b390ea8b80be56e44d5c7d5320ad4aff16d1224",
+      "expectedBackgroundRgb": [
+        0,
+        64,
+        29
+      ],
+      "observedBackgroundRgb": [
+        0,
+        63,
+        31
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "wheat/menu": {
+      "bmpSha256": "24673d3aff19faac2617692778b268cd82e0077d75297bbad9c0c527407df71c",
+      "expectedBackgroundRgb": [
+        0,
+        64,
+        29
+      ],
+      "observedBackgroundRgb": [
+        0,
+        63,
+        31
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "wheat/tooltip": {
+      "bmpSha256": "ba82f25e945d2dbc4faa2e51725d364256925ff387f2934080b4899d0725adbb",
+      "expectedBackgroundRgb": [
+        0,
+        64,
+        29
+      ],
+      "observedBackgroundRgb": [
+        0,
+        63,
+        31
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "wheat/message": {
+      "bmpSha256": "a59a81151429b156d0aeceddb8cdab77e76262151f34b91cd29077f6897e512f",
+      "expectedBackgroundRgb": [
+        0,
+        64,
+        29
+      ],
+      "observedBackgroundRgb": [
+        0,
+        63,
+        31
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "wheat/desktop": {
+      "bmpSha256": "ffac14811877748f22452e1bfd3ff401fe4b1fb8bad01fea51ce1b7b959ba366",
+      "expectedBackgroundRgb": [
+        0,
+        64,
+        29
+      ],
+      "observedBackgroundRgb": [
+        0,
+        63,
+        31
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "pumpkin-large/controls": {
+      "bmpSha256": "42514a63b16eb7cc8bf4a74b21a9699f655307a87fbbafb666d07864f27c5bca",
+      "expectedBackgroundRgb": [
+        66,
+        0,
+        66
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "pumpkin-large/menu": {
+      "bmpSha256": "472516d0e8ce6b1809a3049f1e099ffbf265ccbcdd041993f9453d232a357ddc",
+      "expectedBackgroundRgb": [
+        66,
+        0,
+        66
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "pumpkin-large/tooltip": {
+      "bmpSha256": "6cecbafdd8e9347c138fd90d7ae4937d72127262116dfee7f516e506544d22d4",
+      "expectedBackgroundRgb": [
+        66,
+        0,
+        66
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "pumpkin-large/message": {
+      "bmpSha256": "a1eebe2f1cdd95905c3d893018ef4eaaf9216ba34b97e6e7e863b0b483570a6b",
+      "expectedBackgroundRgb": [
+        66,
+        0,
+        66
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "pumpkin-large/desktop": {
+      "bmpSha256": "eb5094cb574ec561639f464a352565152ac35428a2dc2bbe5aa9db7a50cab514",
+      "expectedBackgroundRgb": [
+        66,
+        0,
+        66
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "eggplant/controls": {
+      "bmpSha256": "8eb9d8169f9d5b22a7f649547b39cad1e7a575ff3fdef231bd634f042b1adb5f",
+      "expectedBackgroundRgb": [
+        64,
+        0,
+        64
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "eggplant/menu": {
+      "bmpSha256": "fa6ced16b656fade29cee8b7ff553081771311d1de75ab0e06a76c546b168eff",
+      "expectedBackgroundRgb": [
+        64,
+        0,
+        64
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "eggplant/tooltip": {
+      "bmpSha256": "a0eec36a64d7356da4b2dadfc98aebfa11e14c22c0d0d48104b6dcf120dcfa50",
+      "expectedBackgroundRgb": [
+        64,
+        0,
+        64
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "eggplant/message": {
+      "bmpSha256": "14a4de33ece89ff557ecf71af728578ddf7a40a209c775fd4642a773ba942eae",
+      "expectedBackgroundRgb": [
+        64,
+        0,
+        64
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "eggplant/desktop": {
+      "bmpSha256": "9c5baeb67403b615d90056d2ca57217685567f8601317eec56e838dd8dcb4799",
+      "expectedBackgroundRgb": [
+        64,
+        0,
+        64
+      ],
+      "observedBackgroundRgb": [
+        63,
+        0,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rainy-day/controls": {
+      "bmpSha256": "8439bbd0c1573862e4675df5e2baea1648a1f2a79c1ea4941a316f6cf2f4d4ab",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rainy-day/menu": {
+      "bmpSha256": "8a09e621a2335bb1d078ee671d9f7932e4d67bb6afb819792b837116976152fc",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rainy-day/tooltip": {
+      "bmpSha256": "e9f9f61c80d0f9917b6d9ce0709b261622b2c65df65e137f9c0537b16632f6e4",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rainy-day/message": {
+      "bmpSha256": "3224b40a286309d0feaae7e92d378192d5f44be6048906742fbee19f276f3a6a",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rainy-day/desktop": {
+      "bmpSha256": "172af67bcce8336e772af1aaff34cb370a49801ad9485e557919759d7dfadfb1",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "desert/controls": {
+      "bmpSha256": "a4b36e5dc7406288976b89d5511c83a8bdd8df98c1d4c0b1e0da02c737b9b404",
+      "expectedBackgroundRgb": [
+        162,
+        141,
+        104
+      ],
+      "observedBackgroundRgb": [
+        159,
+        136,
+        96
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "desert/menu": {
+      "bmpSha256": "f03c2b3395a0c39b9b232fb9a5a64f9510bf9de562a5efa618e45b62c9970243",
+      "expectedBackgroundRgb": [
+        162,
+        141,
+        104
+      ],
+      "observedBackgroundRgb": [
+        159,
+        136,
+        96
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "desert/tooltip": {
+      "bmpSha256": "e1676a3c8fbbce24af02991947fde47852ce434d5ecb4f2a93e42320bfa00c03",
+      "expectedBackgroundRgb": [
+        162,
+        141,
+        104
+      ],
+      "observedBackgroundRgb": [
+        159,
+        136,
+        96
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "desert/message": {
+      "bmpSha256": "b41dfe40d2646975f4d9401bf84788c06ffc39296f78e75ffe3393998ff2a925",
+      "expectedBackgroundRgb": [
+        162,
+        141,
+        104
+      ],
+      "observedBackgroundRgb": [
+        159,
+        136,
+        96
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "desert/desktop": {
+      "bmpSha256": "de06d080a7d569dd9d3500b4fe8de70d4b10ba8b1a21737b75ea4c32ecd23590",
+      "expectedBackgroundRgb": [
+        162,
+        141,
+        104
+      ],
+      "observedBackgroundRgb": [
+        159,
+        136,
+        96
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "marine-high-color/controls": {
+      "bmpSha256": "a70df9ca2165642633093d570fc2a74526a6181b98cbac5e29949ac4eab34b51",
+      "expectedBackgroundRgb": [
+        44,
+        78,
+        71
+      ],
+      "observedBackgroundRgb": [
+        47,
+        79,
+        64
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "marine-high-color/menu": {
+      "bmpSha256": "05366f521892cde9dae6a5efbc6592161a730b55645a5b93747b944d02c19ee3",
+      "expectedBackgroundRgb": [
+        44,
+        78,
+        71
+      ],
+      "observedBackgroundRgb": [
+        47,
+        79,
+        64
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "marine-high-color/tooltip": {
+      "bmpSha256": "9d7b24008fd0196abbb1b6f30f121b33aa19ca9976d3f52db9ecf580f38ef62d",
+      "expectedBackgroundRgb": [
+        44,
+        78,
+        71
+      ],
+      "observedBackgroundRgb": [
+        47,
+        79,
+        64
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "marine-high-color/message": {
+      "bmpSha256": "7f463b2f34be70fa79901e19ece7936f616b68df62b848926197381e58629e15",
+      "expectedBackgroundRgb": [
+        44,
+        78,
+        71
+      ],
+      "observedBackgroundRgb": [
+        47,
+        79,
+        64
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "marine-high-color/desktop": {
+      "bmpSha256": "392cd985fd5416fa5866b0c1c566dbdf9dfabc3bdbf49423e498401b2ddcf6b2",
+      "expectedBackgroundRgb": [
+        44,
+        78,
+        71
+      ],
+      "observedBackgroundRgb": [
+        47,
+        79,
+        64
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-extra-large/controls": {
+      "bmpSha256": "425e27afba3eba0ec92d0647ed9cb744dc889d7e4b5f30a894fbd3c46bf9c16b",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-extra-large/menu": {
+      "bmpSha256": "ee6f84227ac1658fbab1f34454b85e472461c167f4296c4286fbc4083edf6a9e",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-extra-large/tooltip": {
+      "bmpSha256": "bc723ecaec2d7f975ed1db721652a1dbded5ddabfa869d86f4e2c496fe961634",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-extra-large/message": {
+      "bmpSha256": "a1574fe251077b9df0e530dad7d23915413a8b49c5743ce11f413044bd7ef2a7",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-extra-large/desktop": {
+      "bmpSha256": "8fa37514bd3528c90f6a69d24c13a889e730d7c051c256dfbf1f65d51edf581d",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "storm-vga/controls": {
+      "bmpSha256": "c38bdcf127d480b2138649901970f9a6d992a1ba50ea7aaee349ff3bacf50de1",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "storm-vga/menu": {
+      "bmpSha256": "4d14f83192372fc862f17542609b570d27214e64aec8c1f22ddb8b2829621f1d",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "storm-vga/tooltip": {
+      "bmpSha256": "f17be24f48cfe969f33b3014943ca2451bc47e67b99f5e0db7c60ebbddee50d8",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "storm-vga/message": {
+      "bmpSha256": "94e6ab73cea368ea22dd28c31a91b9a9a6e0cd0945b34432962a7b7d68a5b06c",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "storm-vga/desktop": {
+      "bmpSha256": "2d34d8db67e22f7c43333105ddd58545a57ab8982eca442f02c85fcdc52e316f",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard/controls": {
+      "bmpSha256": "41cce7eb27f96448cb9c35abc1be48a0680d297960f9757ba24f363d64b2442c",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard/menu": {
+      "bmpSha256": "f5f24fe7f0c302a94b718c90176111f13043ad367598d6babb62f7591e544661",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard/tooltip": {
+      "bmpSha256": "e13c1e558554ec5d46a8e96d4d7ab8267675920d97154650b717378b9a2bf9d7",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard/message": {
+      "bmpSha256": "6541dc533d29ca5f976bb4be08e0e27c74c5eee1e2d483aeebd3418929311165",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard/desktop": {
+      "bmpSha256": "72ba13ab2acb6a34324806b16c115faa5539bd4af1a99e8d546142cae2a7c2a4",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-large/controls": {
+      "bmpSha256": "cc4714e94d0e85f7f1a06c10c9b819a9cc7d258c2bc2df3f0a2f814de28d2226",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-large/menu": {
+      "bmpSha256": "8c0726c6de7177f63081fb915eda7734b088cc878416de612b3c5fed4825c712",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-large/tooltip": {
+      "bmpSha256": "1ef3433c7259218414e6c8e73a0699fef32fdfa9206f3c1ba47de578af29f87a",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-large/message": {
+      "bmpSha256": "2b4aef600c2826b7a3d810e49c30df027c78de614fe48355abaa31ad099a994d",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-large/desktop": {
+      "bmpSha256": "3c0029224ad2a80934d0766c3b1e9ad7d7fd995d7cc844c3e1090891ca348091",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rose/controls": {
+      "bmpSha256": "99797dafe808475db8ad95d612cabddf6e371e6cad434755effc7c5ea8318b85",
+      "expectedBackgroundRgb": [
+        128,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        127,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rose/menu": {
+      "bmpSha256": "9c25e655ccb7f81d3c37a0789c865a189519c8123d2f3f1f90c0617a20fa0f16",
+      "expectedBackgroundRgb": [
+        128,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        127,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rose/tooltip": {
+      "bmpSha256": "c2a615df5ef088fc50236671a0333cc2a4d33386bde998bab1ee4fc844b9740c",
+      "expectedBackgroundRgb": [
+        128,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        127,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rose/message": {
+      "bmpSha256": "0a51b31a85736517e3a71afa1a5040f166040459d4783c64e47bc7e4a05218b5",
+      "expectedBackgroundRgb": [
+        128,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        127,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rose/desktop": {
+      "bmpSha256": "b4ec35a785e30a2bf3155f1622e37c325c574551e2cc21b0412f6133bf79b654",
+      "expectedBackgroundRgb": [
+        128,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        127,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black-large/controls": {
+      "bmpSha256": "13a2325fdb36771864e91201ae4783d777dab507dab7720c1e8357cf5e6c1553",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black-large/menu": {
+      "bmpSha256": "444d2e7964883e9be0d2536c9c0ffef67ec269235396bb46b0d99e22b77ead6a",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black-large/tooltip": {
+      "bmpSha256": "06774d1ac398a68b6531761c222df3ecdeaf5aa86674748bcb95a665e8e364d5",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black-large/message": {
+      "bmpSha256": "6faae48ee0c8e095b1ee7f48eaa525acbe12b16d3490a7e668c971b21360fbef",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black-large/desktop": {
+      "bmpSha256": "73b87b13b224ab9541c72722ec2bc827cfb9f5dc1ea025ac9fbdac9dc7b78ea4",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black-extra-large/controls": {
+      "bmpSha256": "fd8864b4526f846d8253608bec6b46f5dcb423efec28dc22603a3688fa027f7c",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black-extra-large/menu": {
+      "bmpSha256": "b6b0073256d059e9ff2507e9470e40055cbd0210b627e3a1c760fe25dc730f19",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black-extra-large/tooltip": {
+      "bmpSha256": "83c6f283e8a48b37498d342e3113f8f333e6716f0fd50bb9ebb9449741acacee",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black-extra-large/message": {
+      "bmpSha256": "45123264d0c6ca98f87adb598db96cf3d303c4d941ca88c2632c0957e8e63e1a",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black-extra-large/desktop": {
+      "bmpSha256": "85942c1ec7b38a1096a24dfa8565aec3aaad94d4fb31498901d759dfcaf44149",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white-large/controls": {
+      "bmpSha256": "4bc4e7bf7535bc7d4a0344a0ccd6b6c8f8f7126fe4a4f9aaa198084a2f14a1bb",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white-large/menu": {
+      "bmpSha256": "eb5a03c2bba1f540a4045241c5e889ebbf03219e00e9e4e52776485857f580dc",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white-large/tooltip": {
+      "bmpSha256": "8a5160b5876ac1bf9323b8b17527105b056984f3d9088c1888d01298cb6d111a",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white-large/message": {
+      "bmpSha256": "3fb02bf15bc40b01de1b58183154bcc3e7ff0bad6aaaded8e95c31e596541ef5",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white-large/desktop": {
+      "bmpSha256": "7986d051eca948d2ea8b76ad21b4f5dcfd1070a35d3d506b6f355a0e3d989f7a",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white-extra-large/controls": {
+      "bmpSha256": "a3300dd5a9cc2cd0b3c6d5b62be4e6d2606bd9348ec2b9e6005baa3ec9dcc7e8",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white-extra-large/menu": {
+      "bmpSha256": "0097fce789a37f2ec71f12d5c445525c3138e3ab6ce07e7ee5e25088f57959c7",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white-extra-large/tooltip": {
+      "bmpSha256": "117a7d728e1bbb28d38240b13a672762de80a9ffce530607c0d3a1b83f60c01e",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white-extra-large/message": {
+      "bmpSha256": "a81b67b3c2541d51225d7c1566d7937df72de2f44c53babfdfcc3469685884ae",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white-extra-large/desktop": {
+      "bmpSha256": "ca9bde1e599d5a6575c96271a01fc03894fd63b4624cda4e342372657c7bdb32",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rose-large/controls": {
+      "bmpSha256": "881737e5476f150c75dcea0affe6d2fde32302c98ec72d6d8c1985d933299f37",
+      "expectedBackgroundRgb": [
+        128,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        127,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rose-large/menu": {
+      "bmpSha256": "9f40d22ed9a9fb5652621af321cfa8d5eeb1ee9fb440b0ec076deb0b0206ed29",
+      "expectedBackgroundRgb": [
+        128,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        127,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rose-large/tooltip": {
+      "bmpSha256": "e742d4b1f7cc0579cbf1d96d605f9fc24d6736e93f260a562bb95db1d5b90eef",
+      "expectedBackgroundRgb": [
+        128,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        127,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rose-large/message": {
+      "bmpSha256": "4501130b16a63ca237040565dc98e2dc0eb1ab809f9d9c3b15e76313e06fea06",
+      "expectedBackgroundRgb": [
+        128,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        127,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "rose-large/desktop": {
+      "bmpSha256": "743767dbc09fe3bd646d2876bb40f0ecf3ff0f2b30a9dc823eae05fa8868636d",
+      "expectedBackgroundRgb": [
+        128,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        127,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "lilac/controls": {
+      "bmpSha256": "144d1774589799ea3438726229b8edeec495ccb79d6ed300b94468c3eae8423b",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "lilac/menu": {
+      "bmpSha256": "9799c4c5bef2ae99e0a98ba221d166a1b53be2f7ca67ccabd7fecd3476f6803a",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "lilac/tooltip": {
+      "bmpSha256": "8722efee097be2cdac7633c282e471c865a2d754a8d85fcbdfbd570f892e5097",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "lilac/message": {
+      "bmpSha256": "436f892bf25a5f73dac6d6857aa95012428a2f04442a923369b45e92c0293562",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "lilac/desktop": {
+      "bmpSha256": "2d34d8db67e22f7c43333105ddd58545a57ab8982eca442f02c85fcdc52e316f",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "lilac-large/controls": {
+      "bmpSha256": "ffa1561f0443980600bb310efbd2d60f03def2bb8ee7a7bbe108a2eb71676d94",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "lilac-large/menu": {
+      "bmpSha256": "d6cbe25e9c6c31fc2f9e54c2cddeb92707a9da4241e80de24ade1072cde3a19f",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "lilac-large/tooltip": {
+      "bmpSha256": "3b90d29fc6b85fac3569070243d455d8c5d5c0d4ee53134907b3166abcb1f3d1",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "lilac-large/message": {
+      "bmpSha256": "6183e5da5e81b263f86033ae51d8b4aed19f7e4765a51106eb165ef1b09a5e1a",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "lilac-large/desktop": {
+      "bmpSha256": "5366d382d18b25fafed79e4ad6f2dbcb6f1bcc18f77cad9681e36cfa216f361a",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "slate/controls": {
+      "bmpSha256": "ac5896ca053b4208a8c1b90b8dbc5a3a72f0e0cd63f7816bbc7c5352c458dd70",
+      "expectedBackgroundRgb": [
+        65,
+        65,
+        65
+      ],
+      "observedBackgroundRgb": [
+        63,
+        63,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "slate/menu": {
+      "bmpSha256": "e71e77f5ba3726466e7367a4217987d872f33e59c5fd4aa7b701c2efd177ec38",
+      "expectedBackgroundRgb": [
+        65,
+        65,
+        65
+      ],
+      "observedBackgroundRgb": [
+        63,
+        63,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "slate/tooltip": {
+      "bmpSha256": "134a894d06c8536c12bf11ce3b2e9741efacca0e49c1ab707670e000a9bb165b",
+      "expectedBackgroundRgb": [
+        65,
+        65,
+        65
+      ],
+      "observedBackgroundRgb": [
+        63,
+        63,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "slate/message": {
+      "bmpSha256": "00e4090acf7c02e426f9f7e09b1c90e44e363dc77c2d137702dd2e9bb3f3df32",
+      "expectedBackgroundRgb": [
+        65,
+        65,
+        65
+      ],
+      "observedBackgroundRgb": [
+        63,
+        63,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "slate/desktop": {
+      "bmpSha256": "f7b46974527bd48d7c1daf842896a016397eded2f40dd508b22b8c757ba0c2c1",
+      "expectedBackgroundRgb": [
+        65,
+        65,
+        65
+      ],
+      "observedBackgroundRgb": [
+        63,
+        63,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "plum-high-color/controls": {
+      "bmpSha256": "d2c49ce16a02671ede3ac81d8afab0d5c99b9a5ff3a670d0368f066c6f132ce6",
+      "expectedBackgroundRgb": [
+        64,
+        40,
+        64
+      ],
+      "observedBackgroundRgb": [
+        63,
+        39,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "plum-high-color/menu": {
+      "bmpSha256": "93d0b18b33c25dcf920bc223f8a753073470a7cfe73509c43f2dc5e4498814a4",
+      "expectedBackgroundRgb": [
+        64,
+        40,
+        64
+      ],
+      "observedBackgroundRgb": [
+        63,
+        39,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "plum-high-color/tooltip": {
+      "bmpSha256": "6262ef64e15ac8108eecea8eb53574fecc9eba34876d2c67eab7551803ec0a12",
+      "expectedBackgroundRgb": [
+        64,
+        40,
+        64
+      ],
+      "observedBackgroundRgb": [
+        63,
+        39,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "plum-high-color/message": {
+      "bmpSha256": "2192e3cc256313c6427af093e62d20688ba09fa0455438dea0b4591fbba96a68",
+      "expectedBackgroundRgb": [
+        64,
+        40,
+        64
+      ],
+      "observedBackgroundRgb": [
+        63,
+        39,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "plum-high-color/desktop": {
+      "bmpSha256": "a1f9a6c5017e044b16856d2074bd387ed6e1a0b71eb84e230ae44ab4674b7995",
+      "expectedBackgroundRgb": [
+        64,
+        40,
+        64
+      ],
+      "observedBackgroundRgb": [
+        63,
+        39,
+        63
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black/controls": {
+      "bmpSha256": "c495a18d4ec61ec4ac2f4da796db33fd01627a7b5bb0d89b1f22a9e5d307e369",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black/menu": {
+      "bmpSha256": "102bc0a391014ff1707bee99e011217b93c814aa7c9d79f57c31d79413afaf3f",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black/tooltip": {
+      "bmpSha256": "3e4717d94f85686bd2c935f99452520671a363da27cf17641f7bf4342058741b",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black/message": {
+      "bmpSha256": "ae06d4e5db7a6c48d2e11597be313b4d7bb198945dfbb77125d786141ee1eafc",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-black/desktop": {
+      "bmpSha256": "636833a66a98b9d904a1784d042bf173b8cd7b340d9e3a20e71e57971b478b28",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white/controls": {
+      "bmpSha256": "a3a3c2efff85bf65a606ba86990b85c7d3cd8b5a257860d3d5db2a696990e560",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white/menu": {
+      "bmpSha256": "63618adb5f66bee2791325340a599c84a8ad048df2172ababb4672ccb0d2f9be",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white/tooltip": {
+      "bmpSha256": "e2fe010a506707b8327cfc88ada54488d7adb4bf0b950544113719f0c2e92919",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white/message": {
+      "bmpSha256": "c59774d3e79b3bf40201787bba3e1fbc9771f27f8dde97983397be0cad27b2fe",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-white/desktop": {
+      "bmpSha256": "59fb5157684a24871dad5696802d00d3b2e150a2cebf43f7eea3954b5233f303",
+      "expectedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "observedBackgroundRgb": [
+        255,
+        255,
+        255
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1/controls": {
+      "bmpSha256": "79a93e7773bd1f18c50c35fe330292b33494223b8a6cc9405252a94676a3307d",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1/menu": {
+      "bmpSha256": "5c97344c50a44937730991b1c3391bec67de2c302e76756e48a115b41a22103b",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1/tooltip": {
+      "bmpSha256": "9c620f8dbbfce923845ec91585dfa62c9c29c344f766438c2e84a980c7d2c306",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1/message": {
+      "bmpSha256": "ec17f31226638c1798e74fadf26d76564329dc2c2c9d3fda92e38e8bf50a0d55",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1/desktop": {
+      "bmpSha256": "636833a66a98b9d904a1784d042bf173b8cd7b340d9e3a20e71e57971b478b28",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1-large/controls": {
+      "bmpSha256": "fa0a8bf7877b7e8a4c6016d2d0c6bb362b687e5144697c3fa1c265ab11253e83",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1-large/menu": {
+      "bmpSha256": "56acc5e94ece0b61cc54fbf1c7648198b3f8cd0b86f60a0715941506312b3b03",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1-large/tooltip": {
+      "bmpSha256": "46adb722a6d0427e0a742c05828b51b4ea16ae47585607f80aae2e02e117551e",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1-large/message": {
+      "bmpSha256": "be05585b8d94e31695f2150d040ee3776234850d8a24c55cca5f7795a04b2c38",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1-large/desktop": {
+      "bmpSha256": "73b87b13b224ab9541c72722ec2bc827cfb9f5dc1ea025ac9fbdac9dc7b78ea4",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1-extra-large/controls": {
+      "bmpSha256": "d5cc86a7d805c61b62287e723305e6cdc838d1eb39db62d404d44d3b116f5f14",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1-extra-large/menu": {
+      "bmpSha256": "7041047ce3246df6317040758e33c56d6e9b5139451285f0e32d95199c378d6b",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1-extra-large/tooltip": {
+      "bmpSha256": "e4c3afa0c5f11c600e773d38a898208c7c29841e79d5fdc69b67e8add146fd3c",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1-extra-large/message": {
+      "bmpSha256": "6d8231df3f13f80087b069e8c7bdd9afa32b57b025fa4634b5f120109156d711",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-1-extra-large/desktop": {
+      "bmpSha256": "85942c1ec7b38a1096a24dfa8565aec3aaad94d4fb31498901d759dfcaf44149",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2/controls": {
+      "bmpSha256": "3ae5247b88351914c9d43aa179d1effa01d0da716e05c1dc8bef29106692c90f",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2/menu": {
+      "bmpSha256": "ea3d2432859108aad5a9468c4549205f60510822472cad1c12806d41fb27d225",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2/tooltip": {
+      "bmpSha256": "e710460e0acd832de34be7658fb6ef9f463296980047bb985424e9c1dbf51175",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2/message": {
+      "bmpSha256": "61bf06364a86ce44cf5d8f7bf3efccee1120b1628059b27a6e4e0bb73cbcc7af",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2/desktop": {
+      "bmpSha256": "636833a66a98b9d904a1784d042bf173b8cd7b340d9e3a20e71e57971b478b28",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2-large/controls": {
+      "bmpSha256": "08a430a3ea8f0a0b9eb72e17d95fb4d64f5a46cbb44277121f9b775c36de0a1f",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2-large/menu": {
+      "bmpSha256": "e2eb9ae1b8e887458c8ce5668b3399e029b330609f804d0f167f2e00aa21f00f",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2-large/tooltip": {
+      "bmpSha256": "a9348a7e4cd859b1a15309d57509475ba59fd071dec674d43f91d1bea88683b1",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2-large/message": {
+      "bmpSha256": "75c3f2ec99765e202421f49b62fe67d021747e61f7157af356aa03e4a5d365ec",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2-large/desktop": {
+      "bmpSha256": "73b87b13b224ab9541c72722ec2bc827cfb9f5dc1ea025ac9fbdac9dc7b78ea4",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2-extra-large/controls": {
+      "bmpSha256": "f24e115c74c6b4d98f13602d3c0071e1b8788e0c6ba4763e43e680cd3c907e91",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2-extra-large/menu": {
+      "bmpSha256": "74df26c6d3a23c2646b7de64378bfb1e228c9ba607672af4faeadcae7007f0b4",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2-extra-large/tooltip": {
+      "bmpSha256": "526aa6a24e9e1bfcf9fbb3fe46773cf006d5352eeb0684188dd3660be30ffd9c",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2-extra-large/message": {
+      "bmpSha256": "69405ac03f3713d5470b15bae9a3c459fa61837ea4096faa63b151e4b192e926",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "high-contrast-2-extra-large/desktop": {
+      "bmpSha256": "85942c1ec7b38a1096a24dfa8565aec3aaad94d4fb31498901d759dfcaf44149",
+      "expectedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "observedBackgroundRgb": [
+        0,
+        0,
+        0
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-default/controls": {
+      "bmpSha256": "d36a14087ddfc5fa72d3746a52d95572c512ed70561865c7d417373bcb65603b",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-default/menu": {
+      "bmpSha256": "62b0a70d0d32b82b9fff3667d5fd15e6e7fc02a7ceb862178a110718645c7396",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-default/tooltip": {
+      "bmpSha256": "c1ecc4c36f953cfdbcd51063b4874ca0fd878e930b4c00d41b02b9d6f807f647",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-default/message": {
+      "bmpSha256": "695d91845ff6818421b8789a9beb2e4cd0e0b9078d2db86c4b2d9299d1df19bd",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    },
+    "windows-standard-default/desktop": {
+      "bmpSha256": "72ba13ab2acb6a34324806b16c115faa5539bd4af1a99e8d546142cae2a7c2a4",
+      "expectedBackgroundRgb": [
+        0,
+        128,
+        128
+      ],
+      "observedBackgroundRgb": [
+        0,
+        127,
+        127
+      ],
+      "backgroundWithinDisplayQuantization": true
+    }
+  },
+  "verification": {
+    "expectedImages": 170,
+    "receivedImages": 170,
+    "decodedPngImages": 170,
+    "missingImages": 0,
+    "backgroundMismatches": 0,
+    "backgroundCheck": "Bottom-right pixel compared to JSON Background RGB, allowing 8 levels per channel for display quantization.",
+    "visualReview": "All controls and desktop views reviewed as contact sheets; representative menu, tooltip, and message views reviewed individually."
+  },
+  "presentation": {
+    "compositeImages": 34,
+    "nativeImageScale": "1:1",
+    "desktopCrop": [
+      0,
+      0,
+      800,
+      200
+    ],
+    "desktopPanelExtension": "Remaining width filled with sampled desktop background color.",
+    "compositeSize": [
+      1672,
+      1640
+    ],
+    "originals": "Original captures are retained outside the repository; per-view input hashes remain in this log."
+  }
+}
