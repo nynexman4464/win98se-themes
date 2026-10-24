@@ -2401,10 +2401,6 @@
     "compositeImages": 34,
     "layout": "Single desktop-style scene",
     "nativeImageScale": "1:1",
-    "compositeSize": [
-      1340,
-      760
-    ],
     "sourceCrops": {
       "brick": {
         "menu": [
@@ -3092,7 +3088,147 @@
       "The inactive window is partially occluded by the active sample window.",
       "Multiple active-looking UI states are shown together for comparison.",
       "Desktop icon-label text contrast is chosen by the helper.",
-      "Original screenshots retained outside the repository."
-    ]
+      "Original screenshots retained outside the repository.",
+      "Narrower layout: menu and message box below the main sample; height fits each scheme\u2019s native font sizes."
+    ],
+    "compositeWidth": 960,
+    "imageSizes": {
+      "brick": [
+        960,
+        808
+      ],
+      "desert": [
+        960,
+        808
+      ],
+      "eggplant": [
+        960,
+        820
+      ],
+      "high-contrast-1-extra-large": [
+        960,
+        1057
+      ],
+      "high-contrast-1-large": [
+        960,
+        950
+      ],
+      "high-contrast-1": [
+        960,
+        810
+      ],
+      "high-contrast-2-extra-large": [
+        960,
+        1057
+      ],
+      "high-contrast-2-large": [
+        960,
+        950
+      ],
+      "high-contrast-2": [
+        960,
+        810
+      ],
+      "high-contrast-black-extra-large": [
+        960,
+        1057
+      ],
+      "high-contrast-black-large": [
+        960,
+        950
+      ],
+      "high-contrast-black": [
+        960,
+        810
+      ],
+      "high-contrast-white-extra-large": [
+        960,
+        936
+      ],
+      "high-contrast-white-large": [
+        960,
+        931
+      ],
+      "high-contrast-white": [
+        960,
+        810
+      ],
+      "lilac-large": [
+        960,
+        861
+      ],
+      "lilac": [
+        960,
+        827
+      ],
+      "maple": [
+        960,
+        808
+      ],
+      "marine-high-color": [
+        960,
+        808
+      ],
+      "plum-high-color": [
+        960,
+        808
+      ],
+      "pumpkin-large": [
+        960,
+        860
+      ],
+      "rainy-day": [
+        960,
+        808
+      ],
+      "red-white-and-blue-vga": [
+        960,
+        820
+      ],
+      "rose-large": [
+        960,
+        866
+      ],
+      "rose": [
+        960,
+        813
+      ],
+      "slate": [
+        960,
+        808
+      ],
+      "spruce": [
+        960,
+        808
+      ],
+      "storm-vga": [
+        960,
+        815
+      ],
+      "teal-vga": [
+        960,
+        808
+      ],
+      "wheat": [
+        960,
+        808
+      ],
+      "windows-standard-default": [
+        960,
+        808
+      ],
+      "windows-standard-extra-large": [
+        960,
+        847
+      ],
+      "windows-standard-large": [
+        960,
+        829
+      ],
+      "windows-standard": [
+        960,
+        808
+      ]
+    }
   }
 }
