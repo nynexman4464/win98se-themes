@@ -1,3 +1,6 @@
 /build/
 __pycache__/
 *.pyc
+
+# Original full-desktop captures are archived outside the repository.
+/captures/

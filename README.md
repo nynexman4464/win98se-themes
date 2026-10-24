@@ -35,7 +35,7 @@ Each **Showcase** is a single desktop-style preview scene combining captured act
 
 Each **All settings** sheet lists the 29 colors, six font records, nine dimensions, and source information. These sheets describe the stored data; their text is rendered on the host and does not emulate the Windows 98 fonts.
 
-Captured from the Windows 98 Appearance dialog at 800×600 through a native guest helper. Previews are unscaled crops of the original 800×600 captures in `captures/`. Large-font schemes retain the clipping and overlaps shown by the original Appearance preview.
+Captured from the Windows 98 Appearance dialog at 800×600 through a native guest helper. Previews are unscaled crops of the original 800×600 captures. Full-desktop source images are kept outside this repository. Large-font schemes retain the clipping and overlaps shown by the original Appearance preview.
 
 | Scheme | Preview | Details | Source |
 | --- | --- | --- | --- |
