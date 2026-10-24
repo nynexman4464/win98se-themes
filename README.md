@@ -6,6 +6,7 @@ Windows 98 SE appearance schemes decoded into JSON, with one file per scheme. In
 
 - `themes/`: 34 standalone JSON files containing colors, font records, dimensions, header fields, source hashes, and complete binary payloads.
 - [FORMAT.md](FORMAT.md): layout, byte ordering, and decoding caveats.
+- [Capture tools](scripts/README.md): build the native guest helpers, receive uploads, and regenerate previews and unified showcase images.
 
 These are appearance schemes, including font-size variants, rather than complete desktop theme packages containing wallpapers, sounds, icons, or cursors. The collection comes from one installation; it is not a claim that these are every scheme shipped in every edition or configuration.
 
